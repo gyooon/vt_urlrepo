@@ -8,13 +8,13 @@ scan_date,url,positives,total,positives detail
 # Requirement
 You should put your api key in this script
 
-# usage
+# Usage
 perl vt_urlrepo.pl  
 or  
 echo \<URL\> | perl vt_urlrepo.pl  
 
 
-# exapmples
+# Exapmples
 
 ```sh
 $ perl vt_urlrepo.pl
