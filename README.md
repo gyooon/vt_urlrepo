@@ -1,5 +1,5 @@
 # vt_urlrepo
-Retrieving URL scan reports  
+Retrieving VirusTotal URL scan reports  
 
 csv format  
 scan_date,url,positives,total,positives detail  
