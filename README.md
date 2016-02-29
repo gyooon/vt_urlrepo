@@ -29,7 +29,7 @@ $ echo www.yahoo.co.jp | perl vt_urlrepo.pl
 
 
 ```sh
-$ while read line;do echo $line|perl vtotal2.sh;sleep 16;done < list.txt
+$ while read line;do echo $line|perl vt_urlrepo.pl;sleep 16;done < list.txt
 2016-02-29 01:15:05,http://www.yahoo.co.jp/,2,67,CLEAN MX:phishing site;SCUMWARE.org:malware site
 2016-02-29 02:36:42,http://www.google.co.jp/,0,67,
 2016-02-28 09:10:26,http://qiita.com/,0,67,
