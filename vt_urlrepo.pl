@@ -56,8 +56,8 @@ while (my ($key, $value) = each(%{$decjson->{"scans"}})){
 
 print "\n";
 
-# if you want to see all json object, please comment out here
+#  see all json object
 #print Dumper($decjson)."\n";
 
-# if you want to see all scans json object, please comment out here
+# see all scans json object
 #print Dumper($decjson->{"scans"});
