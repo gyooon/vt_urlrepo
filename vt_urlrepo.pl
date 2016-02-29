@@ -5,7 +5,7 @@
 # under the terms laid forth in the Perl Artistic License
 #
 # This script retrieve URL scan reports
-# 2016/2 modified by gyooon
+# 2016/2 modified by mona4911
 
 use LWP::UserAgent;
 use Data::Dumper;
